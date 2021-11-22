@@ -1,0 +1,30 @@
+
+  #img-size{
+    border-radius: 20px;
+    height: 150px;
+  }
+
+  
+   .back-part{
+    /* width: 100%;
+    height: 50vh; */
+    padding: 30px;
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0, 0, 0,0.5)), url('https://thatsuman.github.io/web-dev-projects/SafeMeal/assets/pizza_2.jpg');
+    background-size: cover;
+
+   }
+   
+   .btn {
+       padding: 6px 20px;
+       margin: 17px;
+       border: 2px solid white;
+       background-color: brown;
+       color: white;
+       font-size: 1.5rem;
+       border-radius: 16px;
+       cursor: pointer;
+     }
+     
+   
+  
+ 

@@ -1,0 +1,6 @@
+.log-bg{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(#d8626280, #e9878780), url('https://thumbs.dreamstime.com/z/welcome-word-written-tag-labels-35252551.jpg');
+    background-size: cover;
+}

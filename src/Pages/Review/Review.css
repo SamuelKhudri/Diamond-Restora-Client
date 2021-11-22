@@ -1,0 +1,21 @@
+.add-service form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.add-service form textarea{
+    width: 40%;
+    margin-bottom: 10px;
+    height: 70px;
+}
+.add-service form input {
+    width: 40%;
+    margin-bottom: 10px;
+}
+#formcolor{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0, 0, 0,0.5)), url('https://diamondcollectiononline.com/wp-content/uploads/2016/12/DiamondCollection-2-1200x607.jpg');
+    background-size: cover;
+}

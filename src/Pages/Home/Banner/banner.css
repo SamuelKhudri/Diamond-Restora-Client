@@ -1,0 +1,27 @@
+/* #bn-size{
+    height: 500px !important;
+} */
+.btn {
+    padding: 6px 20px;
+    margin: 17px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 16px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    color: black;
+    background-color: white;
+  }
+  #font-sizeh1{
+      font-size: 70px ;
+  }
+  #h5-color{
+      color: #da086a ;
+  }
+  #div-btm{
+      margin-bottom: 100px !important;
+  }

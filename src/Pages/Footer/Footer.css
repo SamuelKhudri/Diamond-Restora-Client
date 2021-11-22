@@ -1,0 +1,26 @@
+/* li and text of footer */
+#licolor li{
+color: white !important;
+}
+
+#divH h4 {
+    color: white !important;
+}
+#rightreser {
+ color: white !important;
+}
+/* footer logo */
+#imglogo {
+  margin-top: 3px;
+  height: 70px;
+
+}
+#img-size{
+  border-radius: 5px;
+}
+.partsize{
+  padding: 3px;
+}
+#logodiv{
+  align-items: center !important;
+}
