@@ -11,7 +11,7 @@ const ShowAllProducts = (props) => {
     // const url = `/details/${_id}`;
     return (
 
-        <div className="col-lg-4 col-md-6 col-12">
+        <div className=" col-lg-4 col-md-6 col-12">
             <div className="card mb-5">
                 <div className="card-head">
                     <img src={imgba} alt="logo" className="card-logo" />

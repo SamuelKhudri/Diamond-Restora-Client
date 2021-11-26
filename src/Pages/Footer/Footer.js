@@ -25,7 +25,7 @@ const Footer = () => {
                             <h5 id="rightreser">Diamond Restora</h5>
                             <img id="imglogo" src={logo} alt="" /><br />
 
-                            <h5 id="rightreser">Valuable Partners</h5>
+                            <h5 id="rightreser">Invest Partners</h5>
                             <div id="logodiv" className="d-flex ">
                                 <li><img id="imglogo" className="partsize" src={foot1} alt="" /></li>
                                 <li><img id="imglogo" className="partsize" src={foot2} alt="" /></li>

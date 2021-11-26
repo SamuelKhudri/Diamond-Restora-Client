@@ -11,7 +11,7 @@ const AllProducts = () => {
             .then(data => setProducts(data))
     }, []);
     return (
-        <div className=" cont-bak mt-5">
+        <div className=" container cont-bak mt-5">
             <h1 style={{ color: "brown" }} id="h1provided" >Most Famous Food</h1>
             <h1 style={{ color: "brown" }}>length: {products.length}</h1>
             <div id="service-back" className="row row-cols-1 row-cols-md-3 g-4">
