@@ -7,7 +7,7 @@ const MinProduct = () => {
     const [products, setProducts] = useState([])
     // fake data call-------------
     useEffect(() => {
-        fetch('http://localhost:5000/products')
+        fetch('https://lit-crag-84316.herokuapp.com/products')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
